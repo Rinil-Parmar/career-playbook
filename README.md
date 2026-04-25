@@ -14,3 +14,4 @@ Feel free to use, fork, or contribute — this is meant to be useful for anyone 
 |---------|--------------|
 | [skills/roadmap.md](skills/roadmap.md) | 16 skills ranked by job market priority, learning phases, key stats |
 | [mcp/what-is-mcp.md](mcp/what-is-mcp.md) | MCP deep dive — architecture, Go + Python examples |
+| [ci-cd/github-actions.md](ci-cd/github-actions.md) | GitHub Actions deep dive — workflows, jobs, secrets, matrix, caching |
