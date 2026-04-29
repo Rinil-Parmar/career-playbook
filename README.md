@@ -17,3 +17,4 @@ Feel free to use, fork, or contribute — this is meant to be useful for anyone 
 | [ci-cd/github-actions.md](ci-cd/github-actions.md) | GitHub Actions deep dive — workflows, jobs, secrets, matrix, caching |
 | [ai/rag.md](ai/rag.md) | RAG deep dive — chunking, embeddings, vector stores, retrieval, evaluation, Python example |
 | [ai/secondmem-rag.md](ai/secondmem-rag.md) | RAG extension plan for secondmem — architecture, all code, build phases, Go implementation |
+| [ai/secondmem-project.md](ai/secondmem-project.md) | Full secondmem project breakdown — stack, ingestion pipeline, RAG query pipeline, design decisions |
