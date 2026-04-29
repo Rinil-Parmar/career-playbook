@@ -18,3 +18,4 @@ Feel free to use, fork, or contribute — this is meant to be useful for anyone 
 | [ai/rag.md](ai/rag.md) | RAG deep dive — chunking, embeddings, vector stores, retrieval, evaluation, Python example |
 | [ai/secondmem-rag.md](ai/secondmem-rag.md) | RAG extension plan for secondmem — architecture, all code, build phases, Go implementation |
 | [ai/secondmem-project.md](ai/secondmem-project.md) | Full secondmem project breakdown — stack, ingestion pipeline, RAG query pipeline, design decisions |
+| [ai/coop-2026-27-landscape.md](ai/coop-2026-27-landscape.md) | AI/ML/LLM co-op landscape 2026–27 — 4 booming areas, skill tiers, learning sequence, project ideas |
