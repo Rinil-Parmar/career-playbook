@@ -2,6 +2,9 @@
 
 This playbook is a practical path to become job-ready for networking, security, and secure infrastructure roles.
 
+For the compact phase-table version, see:
+`../networking/networking-data-security-learning-path-table.md`
+
 ---
 
 ## Outcome Targets

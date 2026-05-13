@@ -14,6 +14,7 @@ Feel free to use, fork, or contribute — this is meant to be useful for anyone 
 |---------|--------------|
 | [skills/roadmap.md](skills/roadmap.md) | 16 skills ranked by job market priority, learning phases, key stats |
 | [skills/networking-data-security-career-playbook.md](skills/networking-data-security-career-playbook.md) | Detailed 6-month networking + data security career playbook with phases, labs, portfolio projects, and job-ready milestones |
+| [networking/networking-data-security-learning-path-table.md](networking/networking-data-security-learning-path-table.md) | Quick-reference phase table for the networking + data security learning journey |
 | [mcp/what-is-mcp.md](mcp/what-is-mcp.md) | MCP deep dive — architecture, Go + Python examples |
 | [ci-cd/github-actions.md](ci-cd/github-actions.md) | GitHub Actions deep dive — workflows, jobs, secrets, matrix, caching |
 | [ai/rag.md](ai/rag.md) | RAG deep dive — chunking, embeddings, vector stores, retrieval, evaluation, Python example |
