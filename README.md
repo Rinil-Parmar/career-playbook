@@ -23,3 +23,7 @@ Feel free to use, fork, or contribute — this is meant to be useful for anyone 
 | [ai/coop-2026-27-landscape.md](ai/coop-2026-27-landscape.md) | AI/ML/LLM co-op landscape 2026–27 — 4 booming areas, skill tiers, learning sequence, project ideas |
 | [ai/aros-sequence-diagram.md](ai/aros-sequence-diagram.md) | Aros orchestration sequence diagrams — plan/divide/work flow, judge synthesis, dependency output propagation |
 | [ai/aros-v2-plan.md](ai/aros-v2-plan.md) | AROS v2 master build plan — TUI-only multi-agent orchestrator, streaming agents, judge+verifier, token budgeter, 8-phase build sequence, edge-case checklist |
+| [java-oop/README.md](java-oop/README.md) | Java OOP section index for co-op prep |
+| [java-oop/learning-path.md](java-oop/learning-path.md) | Java OOP co-op prep track — industry-style sequence, milestones, and outcomes |
+| [java-oop/lesson-01-class-object-encapsulation.md](java-oop/lesson-01-class-object-encapsulation.md) | Lesson 1 with production-style Java example, interview notes, and coding prompts |
+| [java-oop/interview-questions.md](java-oop/interview-questions.md) | OOP interview question bank (theory + coding) for co-op preparation |
